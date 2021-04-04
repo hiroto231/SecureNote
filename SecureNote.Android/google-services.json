@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "439092054930",
+    "project_id": "note-dcf9f",
+    "storage_bucket": "note-dcf9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439092054930:android:ce04cdafea02124f27cf4b",
+        "android_client_info": {
+          "package_name": "com.securenote.secure_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439092054930-16m5cvtmh95d5n18r3trvvn4k1h91her.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEb1iZGIklspYNX6RYoDGmp3W50IKpVRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439092054930-16m5cvtmh95d5n18r3trvvn4k1h91her.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439092054930-kaqulhsbn0pidh5sjst10f2i94aq78sb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SecureNote.Secure-Note"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
