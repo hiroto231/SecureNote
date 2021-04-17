@@ -11,7 +11,7 @@ namespace SecureNote
         {
             InitializeComponent();
 
-            MainPage = new LoginPage();
+            MainPage = new NavigationPage(new SubscriptionPage());
         }
 
         protected override void OnStart()
