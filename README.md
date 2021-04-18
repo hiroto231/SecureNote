@@ -30,3 +30,11 @@ If you receive error messages advising that there is an issue with the installat
 2. Use Visual Studio Code(perferably) or any XAML enabled IDE
 3. Install a Virutal Android and iOS environemtn
 4. Select the Play button and watch the application start 
+
+### **Current issues/bugs**
+1. After signing in for the first time the application does not unauthenticate you. This causes a security issue as the user is logged in 100% of the time without being timed out or automatically signed out after exiting the application.
+2. There is not a successfully notification after adding a note
+3. .JPG integration for home page is not functioning
+4. Back button for iOS is not functioning
+5. Android SDK is corrupt
+6. Android Gradle Plugin 4.1.0+ is not supported by AppCenter which means we will need to downgrade to older version for testing
