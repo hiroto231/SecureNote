@@ -15,7 +15,7 @@ SecureNote is a low weight application that serves one purpose. To keep password
 
 Currently SecureNote has yet to gone live on the Apple Appstore. The only way to download the application is to send me an email to christian_vgl@yahoo.com for an invite to your email. SecureNote is not finished for the reason listed below. An alternative is to download my project and upload to your own IDE for editing purposes or enhancements.
 
-**How do install SecureNote using emailed invitation**
+**How do I install SecureNote using emailed invitation?**
 1. Open email received from App Center Team
 2. Select Install
 3. Sign-in to one of the option given to you by install.appcenter.ms
@@ -24,3 +24,9 @@ Currently SecureNote has yet to gone live on the Apple Appstore. The only way to
 6. Exit the App Store browser and find the SecureNote app on your home screens
 
 If you receive error messages advising that there is an issue with the installation please try again in five minutes. I have attempted to troubleshoot this issue but the App Center is on and off with when and where it installs applications. 
+
+**How do I download SecureNote for editing or to enhance the application?**
+1. Download all the contents in the Master branch
+2. Use Visual Studio Code(perferably) or any XAML enabled IDE
+3. Install a Virutal Android and iOS environemtn
+4. Select the Play button and watch the application start 
