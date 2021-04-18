@@ -10,3 +10,17 @@ passwords, emails, addresses, etc. with any and all information for safe keeping
 ### **How does it work?**
 
 SecureNote is a low weight application that serves one purpose. To keep passwords, emails, security questions, etc. safe in the event that your phone is stolen. Simply sign in, select the Add button and enter your information. After you select the Save button the applicaton will create a unique ID and store your information in a cloud based database.
+
+### **How do I download the application?**
+
+Currently SecureNote has yet to gone live on the Apple Appstore. The only way to download the application is to send me an email to christian_vgl@yahoo.com for an invite to your email. SecureNote is not finished for the reason listed below. An alternative is to download my project and upload to your own IDE for editing purposes or enhancements.
+
+**How do install SecureNote using emailed invitation**
+1. Open email received from App Center Team
+2. Select Install
+3. Sign-in to one of the option given to you by install.appcenter.ms
+4. AppCenter will verify your device and if it is not found then you will need to register the device. As this application is IPhone only(at the moment) you will need to open your Settings app > Profile and accept the prompts given.
+5. Once your device is registered the App Center will ask you to Install, select Yes
+6. Exit the App Store browser and find the SecureNote app on your home screens
+
+If you receive error messages advising that there is an issue with the installation please try again in five minutes. I have attempted to troubleshoot this issue but the App Center is on and off with when and where it installs applications. 
